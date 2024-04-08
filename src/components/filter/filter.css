@@ -1,0 +1,9 @@
+.filter{
+    width: 300px;
+    margin-left: 2px;
+}
+@media(max-width:985px){
+    .filter{
+        margin: auto;
+    }
+}

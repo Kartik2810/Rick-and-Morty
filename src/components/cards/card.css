@@ -1,0 +1,42 @@
+.card {
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .card-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .location{
+    
+    font-size: 0.9rem;
+  }
+  
+  .card-description {
+    color: rgb(35, 35, 173);
+    font-size: 1rem;
+  }
+  .tag{
+    position:absolute;
+    bottom: 405px;
+    left: 35px;
+    
+    
+    
+    
+  }
